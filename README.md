@@ -20,7 +20,7 @@ In this session we will cover :
  
 I will demonstrate with descriptions and demos the content and there will be a code repository containing all necessary resources for you to build your own machine learning models using Microsoft Azure Machine Learning.
 
-### Supporting Files:
+### **Supporting Files:**
 
 * [Presentation File](https://gaicstor2020.blob.core.windows.net/amy-ppts/cloudnativeml.pdf)
 * [MS Learn Collection for the session](https://aka.ms/oxford-learn-collection)
@@ -28,5 +28,4 @@ I will demonstrate with descriptions and demos the content and there will be a c
     * [dataset](https://github.com/amynic/cloudnativeml/tree/main/dataset)
     * [fashion-mnist](https://github.com/amynic/cloudnativeml/tree/main/fashion-mnist)
     * [pipeline-code](https://github.com/amynic/cloudnativeml/tree/main/pipeline-code)
-    * deploy-code
-    * monitor-code
+    * [deploy-monitor-code](https://github.com/amynic/cloudnativeml/tree/main/deploy-monitor-code)
