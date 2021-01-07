@@ -20,9 +20,9 @@ save_folder = args.prepped_data
 # +
 from azureml.core.authentication import ServicePrincipalAuthentication
 
-sp = ServicePrincipalAuthentication(tenant_id="72f988bf-86f1-41af-91ab-2d7cd011db47", # tenantID
-                                    service_principal_id="171de499-32e5-414a-bc2b-5f037676b2ff", # clientId
-                                    service_principal_password="k-e9To~BUNKKziSgj7MWh8eRdsmHjYihaw") # clientSecret
+sp = ServicePrincipalAuthentication(tenant_id="", # tenantID
+                                    service_principal_id="", # clientId
+                                    service_principal_password="") # clientSecret
 
 # +
 run = Run.get_context()
