@@ -1,7 +1,7 @@
 # Going Beyond Model Development - Developing ML Cloud Native Solutions
 
 
-    This repo is under construction until 9th Jan and changes will be made
+    | This repo is under construction until 9th Jan and changes will be made|
 
 ### **Session Title:** 
 Going Beyond Model Development - Developing ML Cloud Native Solutions
