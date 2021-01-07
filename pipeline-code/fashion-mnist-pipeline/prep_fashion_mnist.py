@@ -31,7 +31,7 @@ run = Run.get_context()
 print("Azure ML SDK Version: ", azureml.core.VERSION)
 
 # Log into a workspace
-ws = Workspace.get(name="cloudnativeml", auth=sp, subscription_id="a2a1fc9f-5671-4479-8922-ad16e34c0fdc")
+ws = Workspace.get(name="cloudnativeml", auth=sp, subscription_id="")
 print("Using workspace:",ws.name,"in region", ws.location)
 
 
