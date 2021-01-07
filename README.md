@@ -21,6 +21,8 @@ In this session we will cover :
 I will demonstrate with descriptions and demos the content and there will be a code repository containing all necessary resources for you to build your own machine learning models using Microsoft Azure Machine Learning.
 
 
+**[Supporting Presentation File](https://gaicstor2020.blob.core.windows.net/amy-ppts/cloudnativeml.pdf)**
+
 **Code Files and Structure:**
 
 The folders below represent the different sections of the session we will cover
