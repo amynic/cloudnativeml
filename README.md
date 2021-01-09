@@ -29,3 +29,7 @@ I will demonstrate with descriptions and demos the content and there will be a c
     * [fashion-mnist](https://github.com/amynic/cloudnativeml/tree/main/fashion-mnist)
     * [pipeline-code](https://github.com/amynic/cloudnativeml/tree/main/pipeline-code)
     * [deploy-monitor-code](https://github.com/amynic/cloudnativeml/tree/main/deploy-monitor-code)
+    
+    
+    
+Note: All code is demo code and comes with no warranty or SLA or promise to keep updated for the foreseeable future 
